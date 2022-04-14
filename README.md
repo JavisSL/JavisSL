@@ -1,5 +1,5 @@
 <div align ="center">
-     <img src="https://i.ibb.co/tKKVNx0/1649941950240.png" alt="1649941950240" border="0"></a>
+     <img src="https://i.ibb.co/tKKVNx0/1649941950240.png" alt="1649941950240" border="1"></a>
      <h1>🌀☃️ 𝗞𝗜𝗡𝗚 𝗥𝗢𝗠𝗘𝗢☃️🌀</h1> 
 </div>
 <p align ="center"
