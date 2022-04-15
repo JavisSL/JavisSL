@@ -83,6 +83,36 @@
             "SEARCH": "To view the current plugin list supported to King Romeo.",
             "REVOKED": "✅ Group link successfully revoked.",
             "REMOVE_ALL": "_Removing all members started!_"
-        
+       },
+        "afk": {
+            "AFK_DESC": "It will tell you offline.",
+            "IM_AFK": "*I'm offline now! Please wait (This is an automatic message.)*",
+            "IM_AFK_NOMD": "I'm offline now! Please wait (This is an automatic message.)",
+            "REASON": "Reason",
+            "LAST_SEEN": "Last Seen",
+            "IM_NOT_AFK": "```I'm not offline anymore!```",
+            "AFK_TEXT": "```Bip Bop! I am a bot. My owner is not here at the moment.```",
+            "AFK_TEXT_NOMD": "Bip Bop! I am a bot.",
+            "HOUR": "Hour",
+            "MINUTE": "Minutes",
+            "SECOND": "Seconds",
+            "AGO": "Ago```"
+        },
+        "dl-video":{
+            "IG_DESC":"Download instagram videos.",
+            "NEED_WORD":"Please enter a valid link!",
+            "FBDESC":"Download Facebook videos.",
+            "YTDESC": "Download songs or videos from YouTube.",
+            "NEED_VIDEO": "*Please write a YouTube link!*\n*Example:* .yt https://www.youtube.com/watch?v=f0bhfbDFRYD_A",
+            "yt_title": "📄 *Title* : ",
+            "yt_chan": "\n🎬 *Author* : ",
+            "yt_views": "\n👁️ *Views* : ",
+            "DOWNLOADING_SONG":"\n```🌀 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡 𝗬𝗢𝗨𝗥 𝗦𝗢𝗡𝗚...```\n",
+            "UPLOADING_SONG":"\n```⬆☃️ 𝗨𝗣𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗬𝗢𝗨𝗥 𝗦𝗢𝗡𝗚...```\n",
+            "DOWNLOADING_VIDEO": "\n```🌀 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗬𝗢𝗨𝗥 𝗩𝗜𝗗𝗘𝗢...```\n",
+            "UPLOADING_VIDEO":"\n```⬆☃️ 𝗨𝗣𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗬𝗢𝗨𝗥 𝗩𝗜𝗗𝗘𝗢...```\n",
+            "NO_RESULT": "*🌐 Please enter a valid link!* \n\nExample : _.fb https://www.facebook.com/kingromeoofficeil/videos/837496850532776/_",
+            "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact bot owner to increase limit: "
+        }, 
         
         
