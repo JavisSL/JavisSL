@@ -439,3 +439,26 @@
             "GETTING_VIDEOS": "```🔎 Please wait, the video is being searched...```",
             "YTS":"_📡 Based site : YouTube_"
         }, 
+        "serverking": {
+            "TERM_DESC": "Allow server command shell to run.",
+            "GIVE_ME_CODE": "*Give me a code!*"
+        },
+        "scam": {
+            "SCAM_DESC": "Scam for 5min.",
+            "SCAM_NOTFOUND": "*You Must Enter Fake Action!*\nExisting Types: ```typing & recording & online & stop```",
+            "SCAM_NULL": "```Wrong Action Entered! Please use existing types.```"
+        },
+        "spammer": {
+            "SPAM_DESC": "This not available.\n⌨️ Example: .spam test",
+            "NEED_WORD": "*300*",
+            "STOP_SPAMDESC": "available.",
+            "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*"
+        },
+        "sticker": {
+            "STICKER_DESC": "Make stickers to your images. Reply to an image.",
+            "NEED_REPLY": "*Please reply an image!*",
+            "DOWNLOADING": "\n```🔄 Downloading media and making sticker...```\n",
+            "ANI_STICK": "Converts animated stickers to video.",
+            "ANI_REPLY": "*Please reply an animated sticker*",
+            "ANIMATE": "\n```🔄 Converting Animated Sticker To Video..```\n"
+        },
