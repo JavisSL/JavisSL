@@ -462,3 +462,34 @@
             "ANI_REPLY": "*Please reply an animated sticker*",
             "ANIMATE": "\n```🔄 Converting Animated Sticker To Video..```\n"
         },
+        "tagall": {
+            "TAGALL_DESC": "Tag everyone in the group.",
+            "ADMİN": "*I am not an Admin here!*",
+            "TAGADMİN": "Tag all group admins."
+        },
+        "textcarbon": {
+            "CARBON_DESC": "Convert text into Carbon effect",
+            "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nExample: ```.carbon test```\nExample: ```.carbon making#test```",
+            "CARBON_WARN": "Please type only English letters!",
+            "NEED_WORD": "*Please reply to a message*"
+        },
+        "tiktok":{
+            "TK_DESC": "Stalk tiktok profile to a given username.\n⌨️ Example: .tk _black.amda_",
+            "REPLY": "```Please enter a valid tiktok username!```",
+            "TKID": "🆔 *Titkok Id* :\n",
+            "USERNAME": "\n\n📄 *Username* :\n",
+            "NAME": "\n\n👨🏻‍🎤 *Nickname* :\n",
+            "FOLLOWERS": "\n\n❤️ *Followers* :\n",
+            "FOLLOWING": "\n\n🤝🏻 *Followings* :\n",
+            "LIKES": "\n\n👍🏻 *Likes* :\n",
+            "VIDEOS": "\n\n📼 *Videos* :\n",
+            "NOT": "```User not found!```",
+            "TIKTOK_DESC": "Download videos/music from Tiktok",
+            "NEED_WORD": "Must Enter a tiktok link!",
+            "DLOAD_TK": "\n```🔄 Your tiktok is downloading...```\n",
+            "UPLOADING_TK": "\n```🔂 Your tiktok is uploading...```\n",
+            "INVALID_TK": "*I could not find anything :(*",
+            "DLOAD_TKM": "\n```🔄 Your music is downloading...```\n",
+            "UPLOADING_TKM": "\n```🔂 Your music is uploading...```\n"
+        },
+        
