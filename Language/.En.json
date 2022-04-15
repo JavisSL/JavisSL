@@ -23,11 +23,10 @@
             "DELETED": "*✅ Plugin successfully deleted!*"
         },
 "helper" : {
-
             "HELP_DESC" : "⎔════════════════⎔\n       ▷ 📚 Self Support Kit ◁\n⎔════════════════⎔",
             "SELECT" : "Click Here",
             "DESC" : "Self Support Kit",
-            "ALOGO" : "*💠  How to set alive logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the alive logo\n❇️ Mention that photo and type *.setalive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ
+            "ALOGO" : "*💠  How to set alive logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the alive logo\n❇️ Mention that photo and type *.setalive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "ALOGO_DESC" : "How to set alive logo",
             "AMESS" : "*💠  How to set alive message  💠* \n\n❇️ Put the message that you wants to set as the alive message\n❇️ Mention that message and type *.setup alive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "AMESS_DESC" : "How to set alive message",
