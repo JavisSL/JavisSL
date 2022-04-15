@@ -44,4 +44,11 @@ async function getFilter(jid = null, filter = null) {
 }
 
 
-async function setFilter(jid,
+async function setFilter(jid = null, filter = null, tex = null, regx = false) {
+    var Msg = await FiltersDB.findAll({
+        where: {
+            chat: jid,
+            pattern: filter
+        }
+    });
+
