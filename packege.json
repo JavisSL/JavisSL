@@ -1,0 +1,29 @@
+{
+    "name": "king_romeo",
+    "version": "3.6.2v",
+    "description": "King Romeo Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "main": "./KingRomeo/assets/module.js",
+    "scripts": {
+      "start": "supervisor -s assets/module.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/JavisSL/JavisSL.git"
+    },
+    "keywords": [
+      "whatsapp"
+    ],
+    "author": "JavisSL",
+    "developer": "AN Tech",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+      "url": "https://github.com/JavisSL/JavisSL/issues"
+    },
+    "homepage": "https://github.com/JavisSL/JavisSL#readme",
+    "dependencies": {
+      "@javissl/javissl-web-api": "^1.0.2",
+      "kingromeo-public": "^1.1.1",
+      "kingromeo-img": "1.0.0",
+      "fancy-king": "^1.0.5"
+    }
+  }
