@@ -22,3 +22,31 @@
             "NOT_FOUND_PLUGIN": "```You may not have such a plugin installed. But it is not there now.```",
             "DELETED": "*✅ Plugin successfully deleted!*"
         },
+"helper" : {
+
+            "HELP_DESC" : "⎔════════════════⎔\n       ▷ 📚 Self Support Kit ◁\n⎔════════════════⎔",
+            "SELECT" : "Click Here",
+            "DESC" : "Self Support Kit",
+            "ALOGO" : "*💠  How to set alive logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the alive logo\n❇️ Mention that photo and type *.setalive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ
+            "ALOGO_DESC" : "How to set alive logo",
+            "AMESS" : "*💠  How to set alive message  💠* \n\n❇️ Put the message that you wants to set as the alive message\n❇️ Mention that message and type *.setup alive* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "AMESS_DESC" : "How to set alive message",
+            "WLOGO" : "*💠  How to set welcome logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the welcome logo\n❇️ Mention that photo and type *.setwelcome* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "WLOGO_DESC" : "How to set welcome logo",
+            "WMESS" : "*💠  How to set welcome message  💠* \n\n❇️ Put the message that you wants to set as the welcome message\n❇️ Mention that message and type *.setup welcome* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "WMESS_DESC" : "How to set welcome message",
+            "BLOGO" : "*💠  How to set Good Bye logo without going heroku  💠* \n\n❇️ Put the photo that you wants to set as the good bye logo\n❇️ Mention that photo and type *.setbye* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "BLOGO_DESC" : "How to set goodbye logo",
+            "BMESS" : "💠  How to set Good Bye message  💠 \n\n❇️ Put the message that you wants to set as the good bye message\n❇️ Mention that message and type *.setup bye* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "BMESS_DESC" : "How to set goodbye message",
+            "RMESS" : "💠  How to add rules to the group  💠\n\n❇️ Put the message that you wants to add to the rules\n❇️ Mention that message and type *.setrules* \n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "RMESS_DESC" : "How to set group rules",
+            "SUMESS" : "💠  *How add numbers to the sudo without going to heroku*  💠  \n\n❇️ Make the numbers that you want to set sudo as, 94xxxxxxxxx \n(International format wothout *+* and *spaces*)\n❇️ .setvar sudo=94xxxxxxxxx,0,\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ ",
+            "SUMESS_DESC" : "How to add SUDO numbers",
+            "BLOCKMESS" : "*💠 How to disable bot for unwanted groups 💠*\n\n*❇️ How to get the Jid number of the group that you wants to Chat Block.*\n\n⚙️ To get the Jid number, go to the group that you want to Chat Block. Send a command to the group as *.jid* then you will get the Jid number of that particular group.\n❇️ Take the only the numbers from the Jid number that you got *(copy only the number)*.\n\nThe way you get the Jid number of that particular group :-\nChat's JID address: ```977489037858-1329946663@g.us```\n\nFrom this we should only take :- *977489037858-1329946663* the numbers.\n\n❇️ Now copy the numbers and log in to your heroku account, then go to the bot application of your bot.\n❇️ Go to the settings.\n❇️ You will see a button as *Reveal Config Vars* click on that button.\n❇️ After that you will see the Config Vars of your Application. Now scroll down until you get *BLOCK_CHAT*\n❇️ After you found BLOCK_CHAT click the editor pencil corresponding to it.Then you will go to a page with two boxes.\n❇️ On the new page that you got, in the box named as *VALUE* paste the Jid number as :- \n*977489037858-1329946663,* \n❇️ The click on the *SAVE CHANGES* button.\n❇️ Now click the *MORE* button in top right conner, and click on the *Restart all dynos* and restart the bot.\n\n⚠️ When you are adding Jid number of many groups add them as :-\n```xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,```\n\n*💠 Easy way to BLOCK_CHAT. 💠*\n❇️ .setvar BLOCK_CHAT=xxxxxxxxx-xxxxxxx,xxxxxxxxx-xxxxxxx,\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "BLOCKMESS_DESC": "How to block unwanted groups",
+            "PLUGINNOTE" : "💠 *💠 *How to install Queen Amdi External Plugins?* 💠\n\n❇️ Write *.search* command to get plugin links.\n❇️ Now, choose your plugin and copy your plugin link.\n❇️ Wirte *.install plugin_link* and send it.\n❇️ It will simply installed.\n\n\n💠 *How to remove external plugins?* 💠\n\n❇️ Write *.plugin* to get installed plugin list.\n\n❇️ Now, Take plugin name and type *.remove plugin_name*\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "PLUGINNOTE_DESC" : "Add / Remove plugins",
+            "HAPIKEY" : "💠 *How to change Heroku API KEY ?* 💠\n\n❇️ First go _*https://dashboard.heroku.com/account*_\n❇️ Scoll down & you can see *Reveal* button\n❇️ Touch on *Reveal* button & copy that key\n❇️ Now go  _*https://dashboard.heroku.com/*_ & select your bot application\n❇️ Go to Settings and scroll down you can see the *reveal config vars* button.\n❇️ Touch it & scroll down you can see ther var *HEROKU_API_KEY*\n❇️ Touch on the pencil . You can edit it now\n❇️ Paste the API Key you copied before\n❇️ After edit click *save changes* button & *restart all dynos*\n\nǫᴜᴇᴇɴ ᴀᴍᴅɪ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
+            "HAPIKEY_DESC" : "How to change Heroku API key"
+        },
