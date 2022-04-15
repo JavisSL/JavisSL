@@ -52,3 +52,30 @@ async function setFilter(jid = null, filter = null, tex = null, regx = false) {
         }
     });
 
+ if (Msg.length < 1) {
+        return await FiltersDB.create({ chat: jid, pattern: filter, text: tex, regex: regx });
+    } else {
+        return await Msg[0].update({ chat: jid, pattern: filter, text: tex, regex: regx });
+    }
+}
+
+async function deleteFilter(jid = null, filter) {
+    var Msg = await FiltersDB.findAll({
+        where: {
+            chat: jid,
+            pattern: filter
+        }
+    });
+    if (Msg.length < 1) {
+        return false;
+    } else {
+        return await Msg[0].destroy();
+    }
+}
+
+module.exports = {
+    FiltersDB: FiltersDB,
+    getFilter: getFilter,
+    setFilter: setFilter,
+    deleteFilter: deleteFilter
+};
