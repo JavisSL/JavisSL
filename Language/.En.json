@@ -1,0 +1,24 @@
+{
+    "__ROMEOJSON__": true,
+    "LANGUAGE": "English",
+    "LANGCODE": "english",
+    "AUTHOR": "BlackAmda",
+    "STRINGS": {
+        "_king": {
+            "COMMAND": "Command",
+            "DESC": "Description",
+            "EXAMPLE": "Example",
+            "NOT_FOUND": "*I could not find a command like this😔*",
+            "WARN": "Warning!!"
+        },
+        "_plugin": {
+            "NEED_URL": "Please enter a plugin link! Example:",
+            "INVALID_URL": "```Please enter a valid URL!```",
+            "INVALID_PLUGIN": "*❌ Your plugin ink is invalid!*\n*Error:*",
+            "INSTALLED": "*✅ Plugin successfully installed!*",
+            "INSTALLED_FROM_REMOTE": "*Plugins that you install externally:*\n",
+            "NO_PLUGIN": "*You have not installed any external plugin!*",
+            "NEED_PLUGIN": "```Please enter a plugin name! Example: .plugin test ?(.*)```",
+            "NOT_FOUND_PLUGIN": "```You may not have such a plugin installed. But it is not there now.```",
+            "DELETED": "*✅ Plugin successfully deleted!*"
+        },
