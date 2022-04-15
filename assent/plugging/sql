@@ -1,3 +1,0 @@
-const QueenAmdi = require('kingromeo-public');
-const Build = KingRomeo.build
-const { DataTypes } = require('@JavisSL/sequelize');
