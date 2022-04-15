@@ -550,7 +550,7 @@
             "URL": "Shorten link.",
             "NEED": "*Need a link!*",
             "AMDI_QR": "Get QR code to install Queen Amdi Bot.",
-            "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi to install the bot. _(Type *.getqr stop* to stop QR generating)_",
+            "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/JavisSL/JavisSL to install the bot. _(Type *.getqr stop* to stop QR generating)_",
             "INBOX": "*Please get QR from messaging to inbox. _(.getqr)_*"
         }
     }
