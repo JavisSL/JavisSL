@@ -492,4 +492,67 @@
             "DLOAD_TKM": "\n```🔄 Your music is downloading...```\n",
             "UPLOADING_TKM": "\n```🔂 Your music is uploading...```\n"
         },
+        "unvoice": {
+            "UV_DESC": "Convert mp3 into a WA voice message",
+            "UV_REPLY": "*Please reply to a mp3!*",
+            "UV_PROC": "\n```🔄 Recording the audio..```\n"
+        },
+        "updater": {
+            "UPDATER_DESC": "Check for updates.",
+            "UPDATE": "*Your bot is completely updated!✅*",
+            "NEW_UPDATE": "*Your bot have some updates!*\nType *.update now*\n\nChanges:\n```",
+            "UPDATE_NOW_DESC": "Updating your bot",
+            "UPDATING": "_Updating...🔄_",
+            "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong! Visit https://dashboard.heroku.com/account . Scroll down to API key. Click reveal buttong. Copy that API key and paste it in HEROKU_API_KEY config vars.*",
+            "UPDATED": "*✅ Successfully updated!*",
+            "UPDATED_LOCAL": "*✅ Successfully updated!*",
+            "AFTER_UPDATE": "*💬 King Romeo automatically restarting!*",
+            "VERIFY_DESC": "Verify your bot officially.",
+            "VERIFY": "*Your bot is verified!✅*",
+            "VERIFIED": "*✅ Successfully verified!*",
+            "VERIFIED_LOCAL": "*✅ Successfully verified!*",
+            "VERIFYING": "_🎲 Verifying..._"
+        },
+        "vote_poll":{
+            "NEED_WORD": "*Please give me vote request.*\n\nExample :\n.setvote {Are you boy or girl?} {Boy/Girl} {Click here to vote}",
+            "Vote_Already_On": "*There is already a vote. Please delete it to add new one.* (.vote delete)",
+            "VOTED": "✅ Voted",
+            "ALREADY_DONE": "*❗You have already voted.*",
+            "NO_VOTE_RE": "*There is no vote to show result!*",
+            "NO_VOTE_DE": "*There is no vote to delete!*",
+            "RESULT": "Vote Result",
+            "Deleted": "❌ Vote Closed.",
+            "help_REDE": "Use *.vote result* to show vote results.\n\nUse *.vote delete* to close the vote.",
+            "NO_VOTE": "*There is no opened vote now!*"
+        },
+        "wallpaper":{
+            "WALL_DESC": "Download high-resolution wallpapers.",
+            "NEED_WORD": "*You must enter a word*"
+        },
+        "weather": {
+            "WEATHER_DESC": "Check weather.",
+            "NEED_LOCATION": "*Please wirte a place!*\n*Example:* ```.weather Colombo```",
+            "LOCATION": "Place",
+            "TEMP": "Temperature",
+            "DESC": "Description",
+            "HUMI": "Humidity",
+            "WIND": "Wind speed",
+            "CLOUD": "Cloud",
+            "NOT_FOUND": "```I can't find that place. 😖```"
+        },
+        "web": {
+            "SPEEDTEST_DESC": "Check download and upload speed.\nType *.speedtest user* or *.speedtest server*",
+            "SPEEDTESTING": "\n```🔄 Running speed test...```\n",
+            "SPEEDTEST_RESULT": "*✅ Speed ​​test completed!*",
+            "UPLOAD": "Upload",
+            "DOWNLOAD": "Download",
+            "PING_DESC": "Your ping.",
+            "URL": "Shorten link.",
+            "NEED": "*Need a link!*",
+            "AMDI_QR": "Get QR code to install Queen Amdi Bot.",
+            "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi to install the bot. _(Type *.getqr stop* to stop QR generating)_",
+            "INBOX": "*Please get QR from messaging to inbox. _(.getqr)_*"
+        }
+    }
+}  
         
