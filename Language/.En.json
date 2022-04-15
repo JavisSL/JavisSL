@@ -49,3 +49,40 @@
             "HAPIKEY" : "💠 *How to change Heroku API KEY ?* 💠\n\n❇️ First go _*https://dashboard.heroku.com/account*_\n❇️ Scoll down & you can see *Reveal* button\n❇️ Touch on *Reveal* button & copy that key\n❇️ Now go  _*https://dashboard.heroku.com/*_ & select your bot application\n❇️ Go to Settings and scroll down you can see the *reveal config vars* button.\n❇️ Touch it & scroll down you can see ther var *HEROKU_API_KEY*\n❇️ Touch on the pencil . You can edit it now\n❇️ Paste the API Key you copied before\n❇️ After edit click *save changes* button & *restart all dynos*\n\nᴋɪɴɢ ʀᴏᴍᴇᴏ ® ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ",
             "HAPIKEY_DESC" : "How to change Heroku API key"
         },
+        "_settings": {
+            "RESTART": "*💬 King Romeo automatically restarting!*",
+            "SUCPUB": "✅ Public mode activated!",
+            "SUCPVT": "✅ Private mode activated!"
+        },
+        "admin": {
+            "BAN_DESC": "Remove someone from the group. Reply to message or tag a person to use the command.",
+            "IM_NOT_ADMIN": "*I am not the admin of this group!*",
+            "BANNED": "🚮 Kicked out of the group!",
+            "GIVE_ME_USER": "*Give me a user!*",
+            "IS_ADMIN": "*Given User is an admin*",
+            "ADD_DESC": "Adds someone to the group.",
+            "ADDED": "Added to group!",
+            "ALREADY_PROMOTED": "```How can someone who is already an admin do admin?```",
+            "PROMOTED": "```, was promoted as an Admin!😊```",
+            "PROMOTE_DESC": "Promoting memebers into Admin.",
+            "DEMOTE_DESC": "Demoting Admin into member.",
+            "ALREADY_NOT_ADMIN": "```How can someone who is not already an admin demote as an admin?```",
+            "DEMOTED": "```, was demoted as a member```",
+            "MUTE_DESC": "To mute group chat. Only admin can send message.",
+            "MUTED": "```🔇 The group chat was muted!```",
+            "UNMUTE_DESC": "Remove group chat mute. Anyone can send a message.",
+            "UNMUTED": "```🔊 Group chat unmuted!```",
+            "INVITE_DESC": "Provides group invite link.",
+            "INVITE": "```Invitation link: ```",
+            "ADMINDESC": "To get the admin command list",
+            "SUB": "✅ Group name changed.",
+            "DESCGRP": "✅ Group description changed.",
+            "NEED_SUB": "You must type a group name.",
+            "NEED_DESC": "You must type a group description.",
+            "END": "Clear chat",
+            "SEARCH": "To view the current plugin list supported to King Romeo.",
+            "REVOKED": "✅ Group link successfully revoked.",
+            "REMOVE_ALL": "_Removing all members started!_"
+        
+        
+        
