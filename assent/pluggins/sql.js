@@ -44,13 +44,4 @@ async function getFilter(jid = null, filter = null) {
 }
 
 
-async function setFilter(jid = null, filter = null, tex = null, regx = false) {
-    var Msg = await FiltersDB.findAll({
-        where: {
-            chat: jid,null, filter = null) {
-    var Wher = {chat: jid};
-    if (filter !== null) Wher.push({pattern: filter});
-    var Msg = await FiltersDB.findAll({
-        where: Wher
-    });
-
+async function setFilter(jid,
